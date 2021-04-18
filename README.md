@@ -1,3 +1,3 @@
 # YTArchive
-Cool archive of some youtubers videos, if you want someones vids added contact TheUnofficialYTArchive@gmail.com
-also all videos will be in .zip file format and you can download them.
+# UPDATE: EVERYTHING WILL BE IN GOOGLE DRIVE! heres the link: https://drive.google.com/drive/folders/1A5h62Ho4VcK6chGCltCEj3UiwK0T9XGe?usp=sharing
+# STILL EMAIL theunofficialytarchive@gmail.com to request adding a channel.
